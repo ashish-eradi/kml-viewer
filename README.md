@@ -27,5 +27,5 @@ Interactive web application for visualizing and analyzing KML files using React 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/kml-viewer.git
+git clone https://github.com/ashish-eradi/kml-viewer.git
 cd kml-viewer
